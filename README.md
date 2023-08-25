@@ -1,3 +1,9 @@
+This version of Marlin is based on 2.1.2. The printer that I have loaded this on is a Creality Ender 5 plus (+) with a BTT H2 print head. 
+I do have the BTT Touch 7" screen on this printer as well, but that shouldn't affect anything as long as you modify the screen for your setup.
+
+At this point everything is 100% functional and I'm publishing this so that others may profit.
+
+
 <p align="center"><img src="buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" height="250" alt="MarlinFirmware's logo" /></p>
 
 <h1 align="center">Marlin 3D Printer Firmware</h1>
